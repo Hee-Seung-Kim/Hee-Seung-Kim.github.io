@@ -4,6 +4,7 @@ title: About
 description:
 image: assets/images/me.jpg
 nav-menu: true
+permalink: /about/
 ---
 
 <!-- Main -->
