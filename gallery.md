@@ -3,7 +3,6 @@ layout: page
 title: Gallery
 image: assets/images/pic01.jpg
 nav-menu: true
-show_tile: true
 permalink: /gallery/
 ---
 
