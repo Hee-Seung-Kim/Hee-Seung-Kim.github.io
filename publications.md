@@ -1,4 +1,4 @@
-----
+---
 layout: page
 title: Publications
 image: assets/images/publication.jpg
