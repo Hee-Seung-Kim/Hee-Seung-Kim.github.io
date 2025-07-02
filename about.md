@@ -34,15 +34,21 @@ permalink: /about/
           <h2>EMPLOYMENT HISTORY</h2>
           <ul class="alt">
             <li>
-              <strong>2012 – 2024 – present</strong> Postdoctoral Researcher, Korea Advanced Institute of Science and Technology<br/>
+              <strong>2024 – present</strong> Postdoctoral Researcher, Korea Advanced Institute of Science and Technology<br/>
               Advisor: SungBin Lee
             </li>
           </ul>
 
           <h2>EDUCATION</h2>
           <ul class="alt">
-            <li><strong>Ph.D. in Physics</strong>, Korea Advanced Institute of Science and Technology, Aug 2024</li>
-            <li><strong>B.S. in Physics</strong>, Korea Advanced Institute of Science and Technology, Feb 2017</li>
+            <li>
+              <strong>2017 – 2024</strong> Ph.D. in Physics, Korea Advanced Institute of Science and Technology<br/>
+              Advisor: SungBin Lee
+            </li>
+            <li>
+              <strong>2013 – 2017</strong> B.S. in Physics, Korea Advanced Institute of Science and Technology<br/>
+              Advisor: Minho Son
+            </li>
           </ul>
         </div>
       </div>
