@@ -43,3 +43,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 - generic.md
+- elements.md
