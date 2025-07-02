@@ -66,7 +66,7 @@ permalink: /publications/
 
         <li>
           <p style="margin:0 0 1em;">
-            <a href="#"><strong>Emergent Localization in Dodecagonal Bilayer Quasicrystals</strong></a><br/>
+            <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.245401" target="_blank"><strong>Emergent Localization in Dodecagonal Bilayer Quasicrystals</strong></a><br/>
             ▪ Moon Jip Park, <strong>Hee Seung Kim</strong>, SungBin Lee<br/>
             Phys. Rev. B 99, 245401 (2019)
           </p>
