@@ -6,70 +6,43 @@ nav-menu: true
 permalink: /publications/
 ---
 
-<!-- Main -->
 <div id="main" class="alt">
+  <section id="one">
+    <div class="inner">
+      <header class="major">
+        <h1>Publications</h1>
+      </header>
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Publications</h1>
-		</header>
+      <!-- 2025 -->
+      <h2>2025</h2>
 
-<!-- Lists -->
-<h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
+      <p><a href="#"><strong>Proof of nonintegrability of the spin-1 bilinear-biquadratic chain model</strong></a></p>
+      <p>&#9642; Haru K. Park and SungBin Lee, <em>PhysRevB</em> <strong>111</strong>, 134444 (2025)</p>
 
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
+      <p><a href="#"><strong>Immortal quantum correlation in quasiperiodic quasi-one-dimensional systems</strong></a></p>
+      <p>&#9642; Junmo Jeon and SungBin Lee, <em>PhysRevB</em> <strong>111</strong>, L161117 (2025)</p>
 
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
+      <p><a href="#"><strong>Interaction tuned pattern-selective superconductivity: Application to the dodecagonal quasicrystal</strong></a></p>
+      <p>&#9642; Junmo Jeon and SungBin Lee, arXiv 2503.14593 (2025)</p>
 
-	</div>
-	<div class="6u$ 12u$(small)">
+      <p><a href="#"><strong>Nonintegrability in the PXP model: A graph-theoretical approach</strong></a></p>
+      <p>&#9642; Haru K. Park and SungBin Lee, <em>PhysRevB</em> <strong>111</strong>, 085104 (2025)</p>
 
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
+      <p><a href="#"><strong>Graph-theoretical proof of nonintegrability in quantum many-body systems: Application to the PXP model</strong></a></p>
+      <p>&#9642; Haru K. Park and SungBin Lee, <em>PhysRevB</em> <strong>111</strong>, L081101 (2025) <em>(Editor’s Suggestion)</em></p>
 
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
+      <p><a href="#"><strong>Hidden hyperspace geometry and long-distance quantum coupling</strong></a></p>
+      <p>&#9642; Junmo Jeon and SungBin Lee, <em>PhysRevB</em> <strong>111</strong>, L020411 (2025)</p>
 
-	</div>
-</div>
+      <!-- 2024 -->
+      <h2>2024</h2>
 
-</div>
-</div>
+      <p><a href="#"><strong>Controllable skyrmion islands in a moiré magnet</strong></a></p>
+      <p>&#9642; Jemin Park, Haru K. Park and SungBin Lee, <em>PhysRevB</em> <strong>110</strong>, 054426 (2024)</p>
 
-</div>
-</section>
+      <p><a href="#"><strong>Unveiling multipole physics and frustration of icosahedral magnetic quasicrystals</strong></a></p>
+      <p>&#9642; Junmo Jeon and SungBin Lee, <em>npj Quantum Mater.</em> <strong>9</strong>, 5 (2024)</p>
 
+    </div>
+  </section>
 </div>
