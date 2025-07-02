@@ -14,7 +14,7 @@ permalink: /about/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>About me</h1>
+			<h1>About</h1>
 		</header>
 
 <!-- Content -->
