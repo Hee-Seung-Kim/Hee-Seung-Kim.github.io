@@ -31,18 +31,7 @@
     <div id="main">
 
         <!-- One -->
-<!-- 	{% include tiles.html %} -->
-        <section id="one" class="tiles">
-            {% assign ordered_tiles = "" | split: "" %}
-            {% assign ordered_tiles = ordered_tiles | push: site.pages | where: "title", "About" | first %}
-            {% assign ordered_tiles = ordered_tiles | push: site.pages | where: "title", "Interests" | first %}
-            {% assign ordered_tiles = ordered_tiles | push: site.pages | where: "title", "Publications" | first %}
-            {% assign ordered_tiles = ordered_tiles | push: site.pages | where: "title", "Gallery" | first %}
-
-            {% for page in ordered_tiles %}
-                {% include tile.html page=page %}
-            {% endfor %}
-        </section>
+        {% include tiles.html %}
 
         <!-- Two -->
         <section id="two">
