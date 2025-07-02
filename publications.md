@@ -11,7 +11,7 @@ permalink: /publications/
     <div class="inner">
 
       <header class="major">
-        <h1>PUBLICATIONS</h1>
+        <h1>Publications</h1>
         <hr />
       </header>
     
