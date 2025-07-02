@@ -35,12 +35,14 @@ permalink: /about/
           <ul class="alt">
             <!--
             <li>
-              <strong>2025 – Present</strong> QUC Research Fellow, Korea Institute for Advanced Study<br/>
+              <strong>2025 – Present</strong><br/>
+              QUC Research Fellow, Korea Institute for Advanced Study (KIAS)<br/>
               Advisor: Young-Woo Son
             </li>
             -->
             <li>
-              <strong>2024 – 2025</strong> Postdoctoral Researcher, Korea Advanced Institute of Science and Technology<br/>
+              <strong>2024 – 2025</strong><br/>
+              Postdoctoral Researcher, Korea Advanced Institute of Science and Technology (KAIST)<br/>
               Advisor: SungBin Lee
             </li>
           </ul>
@@ -48,11 +50,13 @@ permalink: /about/
           <h2>EDUCATION</h2>
           <ul class="alt">
             <li>
-              <strong>2017 – 2024</strong> Integrated Master's &amp; Ph.D. in Physics, Korea Advanced Institute of Science and Technology<br/>
+              <strong>2017 – 2024</strong><br/>
+              Integrated Master's &amp; Ph.D. in Physics, Korea Advanced Institute of Science and Technology (KAIST)<br/>
               Advisor: SungBin Lee
             </li>
             <li>
-              <strong>2013 – 2017</strong> B.S. in Physics, Korea Advanced Institute of Science and Technology<br/>
+              <strong>2013 – 2017</strong><br/>
+              B.S. in Physics, Korea Advanced Institute of Science and Technology (KAIST)<br/>
               Advisor: Minho Son
             </li>
           </ul>
