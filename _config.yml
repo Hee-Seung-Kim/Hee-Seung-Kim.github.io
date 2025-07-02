@@ -11,7 +11,7 @@ city: Nashville
 state: TN
 zip_code: 55555
 country: Republic of Korea
-phone: (+82) 555-5555
+phone: +82-10-5555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
