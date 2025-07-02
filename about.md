@@ -14,7 +14,7 @@ permalink: /about/
   <section id="one">
     <div class="inner">
       <header class="major">
-        <h1>Hee Seung Kim(김희승)</h1>
+        <h1>Kim, Hee Seung (김희승)</h1>
       </header>
 
       <!-- Content -->
