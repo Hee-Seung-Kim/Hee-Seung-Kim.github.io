@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-image: assets/images/pic01.jpg
+image: assets/images/gallery.jpg
 nav-menu: true
 permalink: /gallery/
 ---
