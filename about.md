@@ -27,6 +27,7 @@ permalink: /about/
               class="image fit"
               style="width: 250px;"
             />
+            <p style="font-weight: bold; font-size: 1.1rem; margin-top: 0.5rem;">Hee Seung Kim</p>
           </div>
 
         <!-- 오른쪽: 간단 이력 -->
