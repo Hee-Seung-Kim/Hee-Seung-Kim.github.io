@@ -14,7 +14,7 @@ permalink: /about/
   <section id="one">
     <div class="inner">
       <header class="major">
-        <h1>About</h1>
+        <h1>Hee Seung Kim(김희승)</h1>
       </header>
 
       <!-- Content -->
@@ -27,7 +27,6 @@ permalink: /about/
               class="image fit"
               style="width: 250px;"
             />
-            <p style="font-weight: bold; font-size: 1.1rem; margin-top: 0.5rem;">Hee Seung Kim</p>
           </div>
 
         <!-- 오른쪽: 간단 이력 -->
