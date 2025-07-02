@@ -33,21 +33,16 @@ permalink: /about/
         <div style="flex: 1;">
           <h2>EMPLOYMENT HISTORY</h2>
           <ul class="alt">
-            <li><strong>2016 – present</strong> Associate Professor, KAIST</li>
             <li>
-              <strong>2014 – 2015</strong> Postdoctoral Fellow, UC Irvine<br/>
-              Advisor: Siddharth Parameswaran
-            </li>
-            <li>
-              <strong>2012 – 2014</strong> Postdoctoral Fellow, University of Toronto<br/>
-              Advisor: Yong Baek Kim &amp; Arun Paramekanti
+              <strong>2012 – 2024 – present</strong> Postdoctoral Researcher, Korea Advanced Institute of Science and Technology<br/>
+              Advisor: SungBin Lee
             </li>
           </ul>
 
           <h2>EDUCATION</h2>
           <ul class="alt">
-            <li><strong>Ph.D. in Physics</strong>, KAIST, Aug 2024</li>
-            <li><strong>B.S. in Physics</strong>, KAIST, Feb 2018</li>
+            <li><strong>Ph.D. in Physics</strong>, Korea Advanced Institute of Science and Technology, Aug 2024</li>
+            <li><strong>B.S. in Physics</strong>, Korea Advanced Institute of Science and Technology, Feb 2017</li>
           </ul>
         </div>
       </div>
