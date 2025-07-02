@@ -1,4 +1,4 @@
----
+----
 layout: page
 title: Publications
 image: assets/images/pic01.jpg
@@ -29,7 +29,7 @@ permalink: /publications/
 
         <li>
           <p style="margin:0 0 1em;">
-            <a href="#"><strong>Partial Kondo Screening and Anomalous Thermal Conductance</strong></z><br/>
+            <a href="#"><strong>Partial Kondo Screening and Anomalous Thermal Conductance</strong></a><br/>
             ▪ <strong>Hee Seung Kim</strong>, Hyeok-Jun Yang, SungBin Lee<br/>
             Phys. Rev. B 105, 085135 (2022)
           </p>
