@@ -10,18 +10,51 @@ permalink: /about/
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>About</h1>
-		</header>
+  <!-- One -->
+  <section id="one">
+    <div class="inner">
+      <header class="major">
+        <h1>About</h1>
+      </header>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+      <!-- Content -->
+      <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+        <!-- 왼쪽: 프로필 사진 -->
+        <div style="flex: 0 0 200px; margin-right: 2rem;">
+          <img
+            src="{{ '/assets/images/me.jpg' | relative_url }}"
+            alt="Profile Photo"
+            class="image fit"
+          />
+        </div>
+
+        <!-- 오른쪽: 간단 이력 -->
+        <div style="flex: 1;">
+          <h2>EMPLOYMENT HISTORY</h2>
+          <ul class="alt">
+            <li><strong>2016 – present</strong> Associate Professor, KAIST</li>
+            <li>
+              <strong>2014 – 2015</strong> Postdoctoral Fellow, UC Irvine<br/>
+              Advisor: Siddharth Parameswaran
+            </li>
+            <li>
+              <strong>2012 – 2014</strong> Postdoctoral Fellow, University of Toronto<br/>
+              Advisor: Yong Baek Kim &amp; Arun Paramekanti
+            </li>
+          </ul>
+
+          <h2>EDUCATION</h2>
+          <ul class="alt">
+            <li><strong>Ph.D. in Physics</strong>, KAIST, Aug 2024</li>
+            <li><strong>B.S. in Physics</strong>, KAIST, Feb 2018</li>
+          </ul>
+        </div>
+      </div>
+      <!-- /Content -->
+
+    </div>
+  </section>
+  <!-- /One -->
 
 </div>
-</section>
-
-</div>
+<!-- /Main -->
