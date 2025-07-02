@@ -20,7 +20,7 @@ permalink: /about/
       <!-- Content -->
       <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
         <!-- 왼쪽: 프로필 사진 -->
-          <div style="flex: 0 0 250px; margin-right: 2rem;">
+          <div style="flex: 0 0 300px; margin-right: 2rem;">
             <img
               src="{{ '/assets/images/me.jpg' | relative_url }}"
               alt="Profile Photo"
