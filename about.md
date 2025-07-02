@@ -20,18 +20,18 @@ permalink: /about/
       <!-- Content -->
       <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
         <!-- 왼쪽: 프로필 사진 -->
-          <div style="flex: 0 0 300px; margin-right: 2rem;">
+          <div style="flex: 0 0 250px; margin-right: 2rem;">
             <img
               src="{{ '/assets/images/me.jpg' | relative_url }}"
               alt="Profile Photo"
               class="image fit"
-              style="width: 250px;"
+              style="width: 300px;"
             />
           </div>
 
         <!-- 오른쪽: 간단 이력 -->
         <div style="flex: 1;">
-          <h2>EMPLOYMENT HISTORY</h2>
+          <h2>EMPLOYMENT</h2>
           <ul class="alt">
             <li>
               <strong>2024 – present</strong> Postdoctoral Researcher, Korea Advanced Institute of Science and Technology<br/>
