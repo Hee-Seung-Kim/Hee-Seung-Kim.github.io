@@ -12,6 +12,16 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
+		<li><a href="{{ '/about/' | absolute_url }}">About</a></li>
+		<li><a href="{{ '/interests/' | absolute_url }}">Interests</a></li>
+		<li><a href="{{ '/publications/' | absolute_url }}">Publications</a></li>
+		<li><a href="{{ '/gallery/' | absolute_url }}">Gallery</a></li>
+	</ul>
+</nav>
+	
+<!-- Menu -->
+<!-- <nav id="menu">
+	<ul class="links">
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
@@ -27,4 +37,4 @@
 		<li><a href="#" class="button special fit">Get Started</a></li>
 		<li><a href="#" class="button fit">Log In</a></li>
 	</ul>
-</nav>
+</nav> -->
