@@ -34,7 +34,11 @@ permalink: /about/
           <h2>EMPLOYMENT</h2>
           <ul class="alt">
             <li>
-              <strong>2024 – present</strong> Postdoctoral Researcher, Korea Advanced Institute of Science and Technology<br/>
+              <strong>2025 – Present</strong> QUC Research Fellow, Korea Institute for Advanced Study<br/>
+              Advisor: Young-Woo Son
+            </li>
+            <li>
+              <strong>2024 – 2025</strong> Postdoctoral Researcher, Korea Advanced Institute of Science and Technology<br/>
               Advisor: SungBin Lee
             </li>
           </ul>
