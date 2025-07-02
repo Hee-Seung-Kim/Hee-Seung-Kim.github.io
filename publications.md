@@ -10,6 +10,11 @@ permalink: /publications/
   <section id="one">
     <div class="inner">
 
+      <header class="major">
+        <h1>PUBLICATIONS</h1>
+        <hr />
+      </header>
+    
       <ol>
         <li>
           <p style="margin:0 0 1em;">
