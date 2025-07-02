@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Hee Seung Kim'
+landing-title: 'Welcome!!'
 description: null
 image: null
 author: null
