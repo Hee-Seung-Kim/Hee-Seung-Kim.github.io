@@ -42,7 +42,7 @@ permalink: /publications/
 
         <li>
           <p style="margin:0 0 1em;">
-            <a href="#\https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.235145" target="_blank"><strong>Crucial Role of Out-of-plane Sb p Orbitals in Van Hove Singularity Formation and Electronic Correlations in the Superconducting Kagome Metal CsV₃Sb₅</strong></a><br/>
+            <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.235145" target="_blank"><strong>Crucial Role of Out-of-plane Sb p Orbitals in Van Hove Singularity Formation and Electronic Correlations in the Superconducting Kagome Metal CsV₃Sb₅</strong></a><br/>
             ▪ Min Yong Jeong, Hyeok-Jun Yang, <strong>Hee Seung Kim</strong>, Yong Baek Kim, SungBin Lee, Myung Joon Han<br/>
             Phys. Rev. B 105, 235145 (2022)
           </p>
