@@ -6,12 +6,12 @@ description: Exploring quantum matter through theory and computation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hee-seung-kim.github.io" # the base hostname & protocol for your site
 author: Hee Seung Kim
-street_address: 1234 Somewhere Road
-city: Daejeon
-state:
-zip_code: 55555
+street_address: 291 Daehak-ro
+city: Yuseong-gu
+state: Daejeon
+zip_code: 34141
 country: Republic of Korea
-phone: +82-10-5555-5555
+phone: +82-10-****-****
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
