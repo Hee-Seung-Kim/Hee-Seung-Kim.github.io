@@ -5,6 +5,7 @@ description:
 image: assets/images/me.jpg
 nav-menu: true
 permalink: /about/
+nav_order: 1
 ---
 
 <!-- Main -->
