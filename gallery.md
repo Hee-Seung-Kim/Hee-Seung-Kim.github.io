@@ -23,7 +23,7 @@ nav_order: 4
 				    <span class="image fit">
 				      <img src="{% link assets/images/fumo.jpg %}" alt="" />
 				    </span>
-				    <p style="font-size: 0.8em; color: #fff; margin-top: -0.5em;">
+				    <p style="font-size: 0.8em; color: #fff; margin-top: -1.5em;">
 				      Nue, Subaru, Koishi
 				    </p>
 				  </div>
