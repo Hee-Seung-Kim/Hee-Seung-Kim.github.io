@@ -4,6 +4,7 @@ title: Publications
 image: assets/images/publication.png
 nav-menu: true
 permalink: /publications/
+nav_order: 3
 ---
 
 <div id="main" class="alt">
