@@ -18,7 +18,8 @@ nav_order: 4
 		</header>
 		<div class="box alt">
 			<div class="row 50% uniform">
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+				<div class="4u"><span class="image fit"><img src="{% link assets/images/fumo.jpg %}" alt="" /></span></div>
+				{% comment %}
 				<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 				<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
 				<!-- Break -->
@@ -29,6 +30,7 @@ nav_order: 4
 				<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 				<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
 				<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+				{% commentend %}
 			</div>
 		</div>
 	</div>
