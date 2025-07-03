@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gallery
+description: Photos from hobbies and daily life
 image: assets/images/gallery.jpg
 nav-menu: true
 permalink: /gallery/
