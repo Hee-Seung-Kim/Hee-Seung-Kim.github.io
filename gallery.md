@@ -24,7 +24,7 @@ nav_order: 4
 				      <img src="{% link assets/images/fumo.jpg %}" alt="" />
 				    </span>
 				    <p style="font-size: 0.8em; color: #fff; margin-top: 0.0em;">
-				      nue &amp; subaru
+				      Nue, Subaru, Koishi
 				    </p>
 				  </div>
 				</div>
