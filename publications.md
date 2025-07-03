@@ -10,12 +10,10 @@ nav_order: 3
 <div id="main" class="alt">
   <section id="one">
     <div class="inner">
-
       <header class="major">
         <h1>Publications</h1>
         <hr />
       </header>
-    
       <ol>
         <li>
           <p style="margin:0 0 1em;">
@@ -24,7 +22,6 @@ nav_order: 3
             Physical Review Letters (Under Review), arXiv:2411.09542 [cond-mat.str-el]
           </p>
         </li>
-
         <li>
           <p style="margin:0 0 1em;">
             <a href="https://scipost.org/SciPostPhysCore.6.1.008" target="_blank"><strong>Intertwining Orbital Current Order and Superconductivity in Kagome Metal</strong></a><br/>
@@ -32,7 +29,6 @@ nav_order: 3
             SciPost Phys. Core 6, 008 (2023)
           </p>
         </li>
-
         <li>
           <p style="margin:0 0 1em;">
             <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.085135" target="_blank"><strong>Partial Kondo Screening and Anomalous Thermal Conductance</strong></a><br/>
@@ -40,7 +36,6 @@ nav_order: 3
             Phys. Rev. B 105, 085135 (2022)
           </p>
         </li>
-
         <li>
           <p style="margin:0 0 1em;">
             <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.235145" target="_blank"><strong>Crucial Role of Out-of-plane Sb p Orbitals in Van Hove Singularity Formation and Electronic Correlations in the Superconducting Kagome Metal CsV₃Sb₅</strong></a><br/>
@@ -48,7 +43,6 @@ nav_order: 3
             Phys. Rev. B 105, 235145 (2022)
           </p>
         </li>
-
         <li>
           <p style="margin:0 0 1em;">
             <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.155113" target="_blank"><strong>Emergent Chiral Spin Ordering and Anomalous Hall Effect in a Kagome Lattice at a 1/3 Filling</strong></a><br/>
@@ -56,7 +50,6 @@ nav_order: 3
             Phys. Rev. B 102, 155113 (2020)
           </p>
         </li>
-
         <li>
           <p style="margin:0 0 1em;">
             <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.060405" target="_blank"><strong>Magnetic Field and Thermal Hall Effect in a Pyrochlore U(1) Quantum Spin Liquid</strong></a><br/>
@@ -64,7 +57,6 @@ nav_order: 3
             Phys. Rev. B 102, 060405(R) (2020)
           </p>
         </li>
-
         <li>
           <p style="margin:0 0 1em;">
             <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.245401" target="_blank"><strong>Emergent Localization in Dodecagonal Bilayer Quasicrystals</strong></a><br/>
@@ -73,7 +65,6 @@ nav_order: 3
           </p>
         </li>
       </ol>
-
     </div>
   </section>
 </div>
