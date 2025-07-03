@@ -17,7 +17,6 @@ nav_order: 1
       <header class="major">
         <h1>Kim, Hee Seung (김희승)</h1>
       </header>
-
       <!-- Content -->
       <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
         <!-- 왼쪽: 프로필 사진 -->
@@ -29,7 +28,6 @@ nav_order: 1
               style="width: 300px;"
             />
           </div>
-
         <!-- 오른쪽: 간단 이력 -->
         <div style="flex: 1;">
           <h2>EMPLOYMENT</h2>
@@ -47,7 +45,6 @@ nav_order: 1
               Advisor: SungBin Lee
             </li>
           </ul>
-
           <h2>EDUCATION</h2>
           <ul class="alt">
             <li>
@@ -64,10 +61,8 @@ nav_order: 1
         </div>
       </div>
       <!-- /Content -->
-
     </div>
   </section>
   <!-- /One -->
-
 </div>
 <!-- /Main -->
