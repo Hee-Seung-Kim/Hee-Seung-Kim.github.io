@@ -1,7 +1,7 @@
 # site settings
 title: Hee Seung Kim
 subtitle: Physics
-email: shamoo0829@kaist.ac.kr
+email: usami.kim@gmail.com
 description: Exploring quantum matter through theory and computation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hee-seung-kim.github.io" # the base hostname & protocol for your site
