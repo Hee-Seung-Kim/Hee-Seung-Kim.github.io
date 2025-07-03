@@ -19,13 +19,24 @@ nav_order: 4
 		<div class="box alt">
 			<div class="row 50% uniform">
 				<div class="4u">
-				  <div style="text-align: center;">
+				  <div style="position: relative; display: inline-block;">
 				    <span class="image fit">
 				      <img src="{% link assets/images/fumo.jpg %}" alt="" />
 				    </span>
-				    <p style="font-size: 0.8em; color: #666; margin-top: 0.5em;">
+				    <span style="
+				      position: absolute;
+				      bottom: 4px;
+				      left: 50%;
+				      transform: translateX(-50%);
+				      font-size: 0.9em;
+				      font-weight: bold;
+				      color: white;
+				      text-shadow: 0 0 4px rgba(0,0,0,0.8);
+				      margin: 0;
+				      padding: 2px 4px;
+				    ">
 				      nue &amp; subaru
-				    </p>
+				    </span>
 				  </div>
 				</div>
 			</div>
