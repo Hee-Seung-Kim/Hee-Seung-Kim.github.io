@@ -5,6 +5,7 @@ description:
 image: assets/images/pic07.jpg
 nav-menu: true
 permalink: /interests/
+nav_order: 2
 ---
 
 <!-- Main -->
