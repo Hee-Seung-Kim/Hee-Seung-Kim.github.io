@@ -34,13 +34,13 @@ nav_order: 1
         <div style="flex: 1;">
           <h2>EMPLOYMENT</h2>
           <ul class="alt">
-            <!--
+            {% comment %}
             <li>
               <strong>2025 – Present</strong><br/>
               QUC Research Fellow, Korea Institute for Advanced Study (KIAS)<br/>
               Advisor: Young-Woo Son
             </li>
-            -->
+            {% endcomment %}
             <li>
               <strong>2024 – 2025</strong><br/>
               Postdoctoral Researcher, Korea Advanced Institute of Science and Technology (KAIST)<br/>
