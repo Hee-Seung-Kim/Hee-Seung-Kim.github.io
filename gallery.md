@@ -18,7 +18,16 @@ nav_order: 4
 		</header>
 		<div class="box alt">
 			<div class="row 50% uniform">
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/fumo.jpg %}" alt="" /></span></div>
+				<div class="4u">
+				  <div style="text-align: center;">
+				    <span class="image fit">
+				      <img src="{% link assets/images/fumo.jpg %}" alt="" />
+				    </span>
+				    <p style="font-size: 0.8em; color: #666; margin-top: 0.5em;">
+				      nue &amp; subaru
+				    </p>
+				  </div>
+				</div>
 			</div>
 		</div>
 	</div>
