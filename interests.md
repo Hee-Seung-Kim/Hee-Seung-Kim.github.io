@@ -1,6 +1,6 @@
 ---
 title: Interests
-layout: landing
+layout: page
 description:
 image: assets/images/pic07.jpg
 nav-menu: true
