@@ -19,9 +19,11 @@ nav_order: 2
 			<!-- Two -->
 			<section id="two" class="spotlights">
 				<section>
+					{% comment %}
 					<a href="generic.html" class="image">
 						<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 					</a>
+					{% endcomment %}
 					<div class="content">
 						<div class="inner">
 							<header class="major">
@@ -35,9 +37,11 @@ nav_order: 2
 					</div>
 				</section>
 				<section>
+					{% comment %}
 					<a href="generic.html" class="image">
 						<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 					</a>
+					{% endcomment %}
 					<div class="content">
 						<div class="inner">
 							<header class="major">
