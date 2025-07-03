@@ -13,7 +13,6 @@ nav_order: 3
     <div class="inner">
       <header class="major">
         <h1>Publications</h1>
-        <hr />
       </header>
       <ol>
         <li>
