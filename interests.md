@@ -2,7 +2,7 @@
 title: Interests
 layout: page
 description: Research topics
-image: assets/images/pic07.jpg
+image: assets/images/interests.jpg
 nav-menu: true
 permalink: /interests/
 nav_order: 2
