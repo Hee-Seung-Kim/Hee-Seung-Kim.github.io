@@ -11,7 +11,10 @@ nav_order: 2
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+<!-- Page header -->
+<header class="major">
+  <h1>Interests</h1>
+</header>
 
 <!-- Two -->
 <section id="two" class="spotlights">
