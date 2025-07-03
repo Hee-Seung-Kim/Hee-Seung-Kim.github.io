@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+description: List of all publications
 image: assets/images/publication.png
 nav-menu: true
 permalink: /publications/
