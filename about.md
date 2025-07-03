@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description:
+description: My academic background
 image: assets/images/me.jpg
 nav-menu: true
 permalink: /about/
