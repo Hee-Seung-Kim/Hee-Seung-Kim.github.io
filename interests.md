@@ -1,7 +1,7 @@
 ---
 title: Interests
 layout: page
-description:
+description: Research area
 image: assets/images/pic07.jpg
 nav-menu: true
 permalink: /interests/
