@@ -4,6 +4,7 @@ title: Gallery
 image: assets/images/gallery.jpg
 nav-menu: true
 permalink: /gallery/
+nav_order: 4
 ---
 
 <!-- Main -->
