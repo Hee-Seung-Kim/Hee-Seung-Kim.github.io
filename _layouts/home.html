@@ -31,7 +31,7 @@
     <div id="main">
 
 	<!-- One -->
-	<!--
+	{% comment %}
 	<section id="one" class="tiles">
 	  {% assign ordered_tiles = "" | split: "" %}
 	  {% assign ordered_tiles = ordered_tiles 
@@ -47,7 +47,8 @@
 	    {% include tile.html page=page %}
 	  {% endfor %}
 	</section>
-	-->
+	{% endcomment %}
+	    
         {% include tiles.html %}
 
         <!-- Two -->
