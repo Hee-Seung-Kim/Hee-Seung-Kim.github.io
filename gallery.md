@@ -35,7 +35,7 @@ nav_order: 4
 				      margin: 0;
 				      padding: 2px 4px;
 				    ">
-				      nue &amp; subaru
+				      Nue, Subaru, Koishi
 				    </span>
 				  </div>
 				</div>
