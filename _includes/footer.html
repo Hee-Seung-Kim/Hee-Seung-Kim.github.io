@@ -1,100 +1,80 @@
-<!-- 숨겨야 할 테마 기본 구분선 제거 -->
-<style>
-  /* contact 섹션 위의 회색 선 숨기기 */
-  #contact:before {
-    display: none !important;
-  }
-</style>
+우선 현재의 footer.html을 알려줄게. 맞춰서 수정방법 알려줘. 
 
 <!-- Contact -->
 <section id="contact">
-  <div class="inner">
-    <section
-      style="
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-      "
-    >
-      <!-- Email -->
-      <section style="flex: 1 1 200px; margin: 0.5em; text-align: center;">
-        <div class="contact-method">
-          <span class="icon alt fa-envelope"></span>
-          <h3>Email</h3>
-          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-        </div>
-      </section>
-
-      <!-- Phone -->
-      <section style="flex: 1 1 200px; margin: 0.5em; text-align: center;">
-        <div class="contact-method">
-          <span class="icon alt fa-phone"></span>
-          <h3>Phone</h3>
-          <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
-        </div>
-      </section>
-
-      <!-- Address -->
-      <section style="flex: 1 1 200px; margin: 0.5em; text-align: center;">
-        <div class="contact-method">
-          <span class="icon alt fa-home"></span>
-          <h3>Address</h3>
-          <span>
-            {% if site.street_address %}{{ site.street_address }}<br />{% endif %}
-            {% if site.city %}{{ site.city }},{% endif %}
-            {% if site.state %} {{ site.state }}{% endif %}
-            {% if site.zip_code %}<br />{{ site.zip_code }}{% endif %}
-            {% if site.country %}<br />{{ site.country }}{% endif %}
-          </span>
-        </div>
-      </section>
-    </section>
-  </div>
+	<div class="inner">
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Address</h3>
+					<span>
+					{% if site.street_address %}
+					    {{ site.street_address }}<br />
+					{% endif %}
+					{% if site.city %}
+					    {{ site.city }},
+					{% endif %}
+					{% if site.state %}
+					    {{ site.state }} 
+					{% endif %}
+					{% if site.zip_code %}
+					    {{ site.zip_code }}<br />
+					{% endif %}
+					{% if site.country %}
+					    {{ site.country }}
+					{% endif %}
+					</span>
+				</div>
+			</section>
+		</section>
+	</div>
 </section>
 
 <!-- Footer -->
-<footer id="footer">
-  <div class="inner">
-    <ul class="icons">
-      {% for key_value in site.socials %}
-        {% if key_value[1] %}
-          <li>
-            <a
-              href="{{ key_value[1] }}"
-              class="icon alt fa-{{ key_value[0] | downcase }}"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="{{ key_value[0] }}"
-            >
-              <span class="label">{{ key_value[0] }}</span>
-            </a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-    <ul class="copyright">
-      <li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-      <li>
-        Design:
-        <a href="https://html5up.net" target="_blank">HTML5 UP</a>
-      </li>
-      <li>
-        Jekyll integration:
-        <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a>
-      </li>
-    </ul>
-  </div>
-</footer>
+	<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				{% for key_value in site.socials %}
+					{% if key_value[1] %}
+						<li>
+							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+								<span class="label">{{ key_value[0] }}</span>
+							</a>
+						</li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+			<ul class="copyright">
+				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
+
+			</ul>
+		</div>
+	</footer>
 
 </div>
 
 <!-- Scripts -->
-<script src="{{ 'assets/js/jquery.min.js' | absolute_url }}"></script>
-<script src="{{ 'assets/js/jquery.scrolly.min.js' | absolute_url }}"></script>
-<script src="{{ 'assets/js/jquery.scrollex.min.js' | absolute_url }}"></script>
-<script src="{{ 'assets/js/skel.min.js' | absolute_url }}"></script>
-<script src="{{ 'assets/js/util.js' | absolute_url }}"></script>
-<!--[if lte IE 8]>
-  <script src="{{ 'assets/js/ie/respond.min.js' | absolute_url }}"></script>
-<![endif]-->
-<script src="{{ 'assets/js/main.js' | absolute_url }}"></script>
+	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
+	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
