@@ -28,6 +28,16 @@ nav_order: 4
 				    </p>
 				  </div>
 				</div>
+				<div class="4u">
+				  <div style="text-align: center;">
+				    <span class="image fit">
+				      <img src="{% link assets/images/inarius.jpg %}" alt="" />
+				    </span>
+				    <p style="font-size: 0.8em; color: #fff; margin-top: -1.5em;">
+				      Inarius' Charger
+				    </p>
+				  </div>
+				</div>
 			</div>
 		</div>
 	</div>
