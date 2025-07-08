@@ -78,3 +78,10 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+/* ──────────────────────────────────────────────────────────────── */
+/* Contact 섹션 앞 회색 구분선 제거 */
+#contact .inner::before {
+  display: none !important;
+}
+
