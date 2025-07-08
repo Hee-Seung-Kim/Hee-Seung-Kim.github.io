@@ -78,10 +78,3 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
-
-/* ──────────────────────────────────────────────────────────────── */
-/* Contact 섹션 연락처 블록 사이의 세로 분할선(가상요소) 제거 */
-#contact .inner > section > section::before {
-  content: none !important;
-  display: none  !important;
-}
