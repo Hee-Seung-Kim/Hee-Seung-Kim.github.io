@@ -79,9 +79,9 @@
 	@import 'layout/wrapper';
 	@import 'layout/menu';
 
-/* ──────────────────────────────────────────────────────────────── */
-/* Contact 섹션의 세로 구분선(테두리) 완전히 제거 */
+/* ───────────────────────────────────────────────────────── */
+/* Contact 섹션 안의 모든 세로 분할선을 제거 */
 #contact .inner > section > section {
-  border: none !important;
+  border-left: none !important;
 }
 
