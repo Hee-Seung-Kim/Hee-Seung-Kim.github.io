@@ -1,6 +1,6 @@
-<!-- contact 섹션 위에 추가: 회색 구분선 제거 -->
+<!-- 숨겨야 할 테마 기본 구분선 제거 -->
 <style>
-  /* Remove grey horizontal line before contact section */
+  /* contact 섹션 위의 회색 선 숨기기 */
   #contact:before {
     display: none !important;
   }
@@ -9,7 +9,13 @@
 <!-- Contact -->
 <section id="contact">
   <div class="inner">
-    <section style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 0;">
+    <section
+      style="
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+      "
+    >
       <!-- Email -->
       <section style="flex: 1 1 200px; margin: 0.5em; text-align: center;">
         <div class="contact-method">
@@ -68,8 +74,14 @@
     </ul>
     <ul class="copyright">
       <li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-      <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-      <li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
+      <li>
+        Design:
+        <a href="https://html5up.net" target="_blank">HTML5 UP</a>
+      </li>
+      <li>
+        Jekyll integration:
+        <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a>
+      </li>
     </ul>
   </div>
 </footer>
@@ -78,4 +90,11 @@
 
 <!-- Scripts -->
 <script src="{{ 'assets/js/jquery.min.js' | absolute_url }}"></script>
-<script src="{{ 'assets/js/jquery.scrolly.min.js' | absolu
+<script src="{{ 'assets/js/jquery.scrolly.min.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/jquery.scrollex.min.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/skel.min.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/util.js' | absolute_url }}"></script>
+<!--[if lte IE 8]>
+  <script src="{{ 'assets/js/ie/respond.min.js' | absolute_url }}"></script>
+<![endif]-->
+<script src="{{ 'assets/js/main.js' | absolute_url }}"></script>
