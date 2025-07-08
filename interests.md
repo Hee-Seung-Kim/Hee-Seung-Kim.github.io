@@ -47,7 +47,10 @@ nav_order: 2
 							<header class="major">
 								<h3>Numerical Approaches for Correlated Quantum Systems</h3>
 							</header>
-							<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+							<ul class="features">
+                						<li><strong>Main methods:</strong> Variational Monte Carlo, Landau–Lifshitz–Gilbert equation</li>
+                						<li><strong>Main languages:</strong> Python, Matlab <em>(currently expanding skills in C++)</em></li>
+            						</ul>
 							<ul class="actions">
 								<li><a href="generic.html" class="button">related paper</a></li>
 							</ul>
