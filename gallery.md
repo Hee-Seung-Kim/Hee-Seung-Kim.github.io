@@ -22,7 +22,7 @@ nav_order: 4
             <div style="text-align: center;">
               <a href="{% link assets/images/Alar.jpg %}" target="_blank">
                 <span class="image fit">
-                  <img src="{% link assets/images/inarius.jpg %}" alt="Inarius' Charger" style="cursor: zoom-in;" />
+                  <img src="{% link assets/images/Alar.jpg %}" alt="Alar" style="cursor: zoom-in;" />
                 </span>
               </a>
               <p style="font-size: 0.8em; color: #fff; margin-top: -1.5em;">
