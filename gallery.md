@@ -20,25 +20,13 @@ nav_order: 4
         <div class="row 50% uniform">
           <div class="4u">
             <div style="text-align: center;">
-              <a href="{% link assets/images/fumo.jpg %}" target="_blank">
-                <span class="image fit">
-                  <img src="{% link assets/images/fumo.jpg %}" alt="Nue, Subaru, Koishi" style="cursor: zoom-in;" />
-                </span>
-              </a>
-              <p style="font-size: 0.8em; color: #fff; margin-top: -1.5em;">
-                Nue, Subaru, Koishi
-              </p>
-            </div>
-          </div>
-          <div class="4u">
-            <div style="text-align: center;">
-              <a href="{% link assets/images/inarius.jpg %}" target="_blank">
+              <a href="{% link assets/images/Alar.jpg %}" target="_blank">
                 <span class="image fit">
                   <img src="{% link assets/images/inarius.jpg %}" alt="Inarius' Charger" style="cursor: zoom-in;" />
                 </span>
               </a>
               <p style="font-size: 0.8em; color: #fff; margin-top: -1.5em;">
-                Inarius' Charger
+                Al'ar
               </p>
             </div>
           </div>
