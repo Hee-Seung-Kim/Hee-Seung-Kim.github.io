@@ -1,15 +1,15 @@
 # site settings
 title: Hee Seung Kim
 subtitle: Physics
-email: usami.kim@gmail.com
+email: hskim94[at]kias.re.kr
 description: Exploring quantum matter through theory and computation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hee-seung-kim.github.io" # the base hostname & protocol for your site
 author: Hee Seung Kim
-street_address: 291 Daehak-ro
-city: Yuseong-gu
-state: Daejeon
-zip_code: 34141
+street_address: 85 Hoegiro
+city: Dongdaemun-gu
+state: Seoul
+zip_code: 02455
 country: Republic of Korea
 phone: +82-10-****-****
 
