@@ -20,13 +20,21 @@ nav_order: 4
         <div class="row 50% uniform">
           <div class="4u">
             <div style="text-align: center;">
-              <a href="{% link assets/images/Alar.jpg %}" target="_blank">
+              <a href="{% link assets/images/RichardBona.jpeg %}" target="_blank">
                 <span class="image fit">
-                  <img src="{% link assets/images/Alar.jpg %}" alt="Alar" style="cursor: zoom-in;" />
+                  <img src="{% link assets/images/RichardBona.jpeg %}" alt="Richard_Bona" style="cursor: zoom-in;" />
                 </span>
               </a>
               <p style="font-size: 0.8em; color: #fff; margin-top: -1.5em;">
-                Al'ar
+                With Richard Bona at Dazzle, Denver
+              </p>
+              <a href="{% link assets/images/CuttingEdge.jpg %}" target="_blank">
+                <span class="image fit">
+                  <img src="{% link assets/images/CuttingEdge.jpg %}" alt="Queen Ansurek" style="cursor: zoom-in;" />
+                </span>
+              </a>
+              <p style="font-size: 0.8em; color: #fff; margin-top: -1.5em;">
+                Cutting Edge: Queen Ansurek
               </p>
             </div>
           </div>
