@@ -15,11 +15,18 @@ nav_order: 3
         <h1>Publications</h1>
       </header>
       <ol>
+          <li>
+          <p style="margin:0 0 1em;">
+            <a href="https://arxiv.org/abs/2603.12745" target="_blank"><strong>Ab initio screening of quantum frustrated materials with kagome and triangular geometries</strong></a><br/>
+            ▪ Byeong-Hyeon Jeong, <strong>Hee Seung Kim</strong>, SungBin Lee, Myung Joon Han<br/>
+            arXiv:2603.12745 [cond-mat.str-el]
+          </p>
+        </li>
         <li>
           <p style="margin:0 0 1em;">
-            <a href="https://arxiv.org/abs/2411.09542" target="_blank"><strong>Spin Liquid Landscapes in the Kagome Lattice: A Variational Monte Carlo Study of the Chiral Heisenberg Model and Experimental Signatures</strong></a><br/>
+            <a href="https://journals.aps.org/prb/abstract/10.1103/mw7v-q2x4" target="_blank"><strong>Spin Liquid Landscapes in the Kagome Lattice: A Variational Monte Carlo Study of the Chiral Heisenberg Model and Experimental Signatures</strong></a><br/>
             ▪ <strong>Hee Seung Kim</strong>, Hyeok-Jun Yang, Karlo Penc, and SungBin Lee<br/>
-            Physical Review Letters (Under Review), arXiv:2411.09542 [cond-mat.str-el]
+            Phys. Rev. B 113, 064432 (2026)
           </p>
         </li>
         <li>
